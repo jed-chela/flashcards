@@ -10,7 +10,7 @@ Both services use the same MongoDB server but access different collections
 
 ### How to Install
 
-Download and extract the zip files to get the following folder structure:
+You may use the following folder structure:
 - flashcards  
   - flashcard-engine  
   - flashcards-service  
