@@ -12,8 +12,8 @@ Both services use the same MongoDB server but access different collections
 
 Download and extract the zip files to get the following folder structure:
 - flashcards  
- - flashcard-engine  
- - flashcards-service  
+  - flashcard-engine  
+  - flashcards-service  
 
 ##### Start flashcard-engine on http://localhost:3000
 $ cd into flashcard-engine/  
