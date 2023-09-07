@@ -37,7 +37,7 @@ and the collection "NestJS flashcards-service.postman_collection.json" into post
 Now you can access the Protected endpoints in flashcards-service: Create, Update, Delete, Share
 
 ### Credits
-Thanks to Soora for this interesting exercise. Hoping to get the chance to do more amazing work together!
+Thanks to S**ra!
 
 
 
