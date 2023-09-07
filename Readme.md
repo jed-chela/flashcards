@@ -10,7 +10,7 @@ Both services use the same MongoDB server but access different collections
 
 ### How to Install
 
-Download and extract the zip files to get the following folder structure:
+You may use the following folder structure:
 - flashcards  
   - flashcard-engine  
   - flashcards-service  
@@ -37,7 +37,7 @@ and the collection "NestJS flashcards-service.postman_collection.json" into post
 Now you can access the Protected endpoints in flashcards-service: Create, Update, Delete, Share
 
 ### Credits
-Thanks to Soora for this interesting exercise. Hoping to get the chance to do more amazing work together!
+Thanks to S**ra!
 
 
 
