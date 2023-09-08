@@ -4,7 +4,7 @@ import { jwtConstants } from './secrets';
 
 /**
  *  
-    // constants.ts contents:
+    // secrets.ts contents:
     export const jwtConstants = {
         secret: 'Your Secret Code Here',
     };
